@@ -6,4 +6,4 @@ I'm Bright from Indonesia. I am looking for **Freelance** and **Job Opportunitie
 
 
 ## Check Me 
-<img src="https://github.com/brightmze26/brightmze26/blob/main/linkedin.svg"/>(https://www.linkedin.com/in/brightmze)
+[<img src="https://github.com/brightmze26/brightmze26/blob/main/linkedin.svg" width="100" height="50"/>(https://www.linkedin.com/in/brightmze/)
